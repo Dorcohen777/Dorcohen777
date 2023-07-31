@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**Dorcohen777/Dorcohen777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Dor! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a Full Stack Web Developer passionate about creating elegant and efficient solutions for web applications.
+
+## 🔧 Technologies & Tools
+
+**Client:** HTML5, CSS3, JavaScript (ES6+), React, Vue.js, Redux, Sass, Angular, Wordpress
+
+**Server:** Node.js, Express.js
+
+**Database:** MongoDB, MySQL
+
+**Version Control:** Git
+
+**Other:** RESTful APIs, GraphQL
+
+
+
+
+# 📈 GitHub Stats
+
+![Dor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dorcohen777&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dorcohen777&layout=compact&theme=dark)
+
