@@ -1,6 +1,6 @@
 
 # Hi, I'm Dor! 👋
-
+![Dor cohen](https://github.com/gertzMan/gertzMan/blob/main/assets/header_1.png)
 
 ## 🚀 About Me
 I'm a Full Stack Web Developer passionate about creating elegant and efficient solutions for web applications.
