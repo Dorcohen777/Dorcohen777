@@ -20,7 +20,7 @@ I'm a Full Stack Web Developer passionate about creating elegant and efficient s
 
 
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 ![Dor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dorcohen777&show_icons=true&theme=dark)
 
